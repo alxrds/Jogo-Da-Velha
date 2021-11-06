@@ -1,5 +1,7 @@
 # Jogo Da Velha Com Angular
 
+![Preview](https://github.com/alxrds/Jogo_Da_Velha_Com_Angular/blob/master/src/assets/images/print.PNG?raw=true)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
 
 ## Development server
